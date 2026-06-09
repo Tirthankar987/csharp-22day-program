@@ -1,0 +1,14 @@
+C:\Tirthankar\DiagnosisUndo\DiagnosisUndo\bin\Debug\net9.0\DiagnosisUndo.exe
+C:\Tirthankar\DiagnosisUndo\DiagnosisUndo\bin\Debug\net9.0\DiagnosisUndo.deps.json
+C:\Tirthankar\DiagnosisUndo\DiagnosisUndo\bin\Debug\net9.0\DiagnosisUndo.runtimeconfig.json
+C:\Tirthankar\DiagnosisUndo\DiagnosisUndo\bin\Debug\net9.0\DiagnosisUndo.dll
+C:\Tirthankar\DiagnosisUndo\DiagnosisUndo\bin\Debug\net9.0\DiagnosisUndo.pdb
+C:\Tirthankar\DiagnosisUndo\DiagnosisUndo\obj\Debug\net9.0\DiagnosisUndo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tirthankar\DiagnosisUndo\DiagnosisUndo\obj\Debug\net9.0\DiagnosisUndo.AssemblyInfoInputs.cache
+C:\Tirthankar\DiagnosisUndo\DiagnosisUndo\obj\Debug\net9.0\DiagnosisUndo.AssemblyInfo.cs
+C:\Tirthankar\DiagnosisUndo\DiagnosisUndo\obj\Debug\net9.0\DiagnosisUndo.csproj.CoreCompileInputs.cache
+C:\Tirthankar\DiagnosisUndo\DiagnosisUndo\obj\Debug\net9.0\DiagnosisUndo.dll
+C:\Tirthankar\DiagnosisUndo\DiagnosisUndo\obj\Debug\net9.0\refint\DiagnosisUndo.dll
+C:\Tirthankar\DiagnosisUndo\DiagnosisUndo\obj\Debug\net9.0\DiagnosisUndo.pdb
+C:\Tirthankar\DiagnosisUndo\DiagnosisUndo\obj\Debug\net9.0\DiagnosisUndo.genruntimeconfig.cache
+C:\Tirthankar\DiagnosisUndo\DiagnosisUndo\obj\Debug\net9.0\ref\DiagnosisUndo.dll

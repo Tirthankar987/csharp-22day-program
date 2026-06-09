@@ -1,0 +1,14 @@
+C:\Tirthankar\ForeachLimitationDemo\ForeachLimitationDemo\bin\Debug\net9.0\ForeachLimitationDemo.exe
+C:\Tirthankar\ForeachLimitationDemo\ForeachLimitationDemo\bin\Debug\net9.0\ForeachLimitationDemo.deps.json
+C:\Tirthankar\ForeachLimitationDemo\ForeachLimitationDemo\bin\Debug\net9.0\ForeachLimitationDemo.runtimeconfig.json
+C:\Tirthankar\ForeachLimitationDemo\ForeachLimitationDemo\bin\Debug\net9.0\ForeachLimitationDemo.dll
+C:\Tirthankar\ForeachLimitationDemo\ForeachLimitationDemo\bin\Debug\net9.0\ForeachLimitationDemo.pdb
+C:\Tirthankar\ForeachLimitationDemo\ForeachLimitationDemo\obj\Debug\net9.0\ForeachLimitationDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tirthankar\ForeachLimitationDemo\ForeachLimitationDemo\obj\Debug\net9.0\ForeachLimitationDemo.AssemblyInfoInputs.cache
+C:\Tirthankar\ForeachLimitationDemo\ForeachLimitationDemo\obj\Debug\net9.0\ForeachLimitationDemo.AssemblyInfo.cs
+C:\Tirthankar\ForeachLimitationDemo\ForeachLimitationDemo\obj\Debug\net9.0\ForeachLimitationDemo.csproj.CoreCompileInputs.cache
+C:\Tirthankar\ForeachLimitationDemo\ForeachLimitationDemo\obj\Debug\net9.0\ForeachLimitationDemo.dll
+C:\Tirthankar\ForeachLimitationDemo\ForeachLimitationDemo\obj\Debug\net9.0\refint\ForeachLimitationDemo.dll
+C:\Tirthankar\ForeachLimitationDemo\ForeachLimitationDemo\obj\Debug\net9.0\ForeachLimitationDemo.pdb
+C:\Tirthankar\ForeachLimitationDemo\ForeachLimitationDemo\obj\Debug\net9.0\ForeachLimitationDemo.genruntimeconfig.cache
+C:\Tirthankar\ForeachLimitationDemo\ForeachLimitationDemo\obj\Debug\net9.0\ref\ForeachLimitationDemo.dll

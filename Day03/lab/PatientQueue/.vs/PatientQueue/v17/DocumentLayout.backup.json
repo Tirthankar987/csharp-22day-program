@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Tirthankar\\PatientQueue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99F70C2D-F694-452A-9F16-25C3B0A6A03C}|PatientQueue\\PatientQueue.csproj|c:\\tirthankar\\patientqueue\\patientqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F70C2D-F694-452A-9F16-25C3B0A6A03C}|PatientQueue\\PatientQueue.csproj|solutionrelative:patientqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Tirthankar\\PatientQueue\\PatientQueue\\Program.cs",
+              "RelativeDocumentMoniker": "PatientQueue\\Program.cs",
+              "ToolTip": "C:\\Tirthankar\\PatientQueue\\PatientQueue\\Program.cs",
+              "RelativeToolTip": "PatientQueue\\Program.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAwwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T11:23:06.18Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

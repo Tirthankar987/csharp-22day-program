@@ -1,0 +1,14 @@
+C:\Tirthankar\ArraysTrainingDemo\ArraysTrainingDemo\bin\Debug\net9.0\ArraysTrainingDemo.exe
+C:\Tirthankar\ArraysTrainingDemo\ArraysTrainingDemo\bin\Debug\net9.0\ArraysTrainingDemo.deps.json
+C:\Tirthankar\ArraysTrainingDemo\ArraysTrainingDemo\bin\Debug\net9.0\ArraysTrainingDemo.runtimeconfig.json
+C:\Tirthankar\ArraysTrainingDemo\ArraysTrainingDemo\bin\Debug\net9.0\ArraysTrainingDemo.dll
+C:\Tirthankar\ArraysTrainingDemo\ArraysTrainingDemo\bin\Debug\net9.0\ArraysTrainingDemo.pdb
+C:\Tirthankar\ArraysTrainingDemo\ArraysTrainingDemo\obj\Debug\net9.0\ArraysTrainingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tirthankar\ArraysTrainingDemo\ArraysTrainingDemo\obj\Debug\net9.0\ArraysTrainingDemo.AssemblyInfoInputs.cache
+C:\Tirthankar\ArraysTrainingDemo\ArraysTrainingDemo\obj\Debug\net9.0\ArraysTrainingDemo.AssemblyInfo.cs
+C:\Tirthankar\ArraysTrainingDemo\ArraysTrainingDemo\obj\Debug\net9.0\ArraysTrainingDemo.csproj.CoreCompileInputs.cache
+C:\Tirthankar\ArraysTrainingDemo\ArraysTrainingDemo\obj\Debug\net9.0\ArraysTrainingDemo.dll
+C:\Tirthankar\ArraysTrainingDemo\ArraysTrainingDemo\obj\Debug\net9.0\refint\ArraysTrainingDemo.dll
+C:\Tirthankar\ArraysTrainingDemo\ArraysTrainingDemo\obj\Debug\net9.0\ArraysTrainingDemo.pdb
+C:\Tirthankar\ArraysTrainingDemo\ArraysTrainingDemo\obj\Debug\net9.0\ArraysTrainingDemo.genruntimeconfig.cache
+C:\Tirthankar\ArraysTrainingDemo\ArraysTrainingDemo\obj\Debug\net9.0\ref\ArraysTrainingDemo.dll

@@ -1,0 +1,10 @@
+SET STATISTICS IO OFF;
+SET STATISTICS TIME OFF;
+
+CHECKPOINT;
+DBCC DROPCLEANBUFFERS;
+DBCC FREEPROCCACHE;
+
+select EncounterType,AdmitDate from Encounter
+order by EncounterType;
+

@@ -1,0 +1,14 @@
+C:\Tirthankar\FixedArrayAddDemo\FixedArrayAddDemo\bin\Debug\net9.0\FixedArrayAddDemo.exe
+C:\Tirthankar\FixedArrayAddDemo\FixedArrayAddDemo\bin\Debug\net9.0\FixedArrayAddDemo.deps.json
+C:\Tirthankar\FixedArrayAddDemo\FixedArrayAddDemo\bin\Debug\net9.0\FixedArrayAddDemo.runtimeconfig.json
+C:\Tirthankar\FixedArrayAddDemo\FixedArrayAddDemo\bin\Debug\net9.0\FixedArrayAddDemo.dll
+C:\Tirthankar\FixedArrayAddDemo\FixedArrayAddDemo\bin\Debug\net9.0\FixedArrayAddDemo.pdb
+C:\Tirthankar\FixedArrayAddDemo\FixedArrayAddDemo\obj\Debug\net9.0\FixedArrayAddDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tirthankar\FixedArrayAddDemo\FixedArrayAddDemo\obj\Debug\net9.0\FixedArrayAddDemo.AssemblyInfoInputs.cache
+C:\Tirthankar\FixedArrayAddDemo\FixedArrayAddDemo\obj\Debug\net9.0\FixedArrayAddDemo.AssemblyInfo.cs
+C:\Tirthankar\FixedArrayAddDemo\FixedArrayAddDemo\obj\Debug\net9.0\FixedArrayAddDemo.csproj.CoreCompileInputs.cache
+C:\Tirthankar\FixedArrayAddDemo\FixedArrayAddDemo\obj\Debug\net9.0\FixedArrayAddDemo.dll
+C:\Tirthankar\FixedArrayAddDemo\FixedArrayAddDemo\obj\Debug\net9.0\refint\FixedArrayAddDemo.dll
+C:\Tirthankar\FixedArrayAddDemo\FixedArrayAddDemo\obj\Debug\net9.0\FixedArrayAddDemo.pdb
+C:\Tirthankar\FixedArrayAddDemo\FixedArrayAddDemo\obj\Debug\net9.0\FixedArrayAddDemo.genruntimeconfig.cache
+C:\Tirthankar\FixedArrayAddDemo\FixedArrayAddDemo\obj\Debug\net9.0\ref\FixedArrayAddDemo.dll

@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Tirthankar\\ArraysTrainingDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A20C30C-65D2-43DF-A4F2-0D05E098F8E7}|ArraysTrainingDemo\\ArraysTrainingDemo.csproj|c:\\tirthankar\\arraystrainingdemo\\arraystrainingdemo\\arrayexceptionsexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A20C30C-65D2-43DF-A4F2-0D05E098F8E7}|ArraysTrainingDemo\\ArraysTrainingDemo.csproj|solutionrelative:arraystrainingdemo\\arrayexceptionsexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A20C30C-65D2-43DF-A4F2-0D05E098F8E7}|ArraysTrainingDemo\\ArraysTrainingDemo.csproj|c:\\tirthankar\\arraystrainingdemo\\arraystrainingdemo\\differenttypesofarraysexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A20C30C-65D2-43DF-A4F2-0D05E098F8E7}|ArraysTrainingDemo\\ArraysTrainingDemo.csproj|solutionrelative:arraystrainingdemo\\differenttypesofarraysexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A20C30C-65D2-43DF-A4F2-0D05E098F8E7}|ArraysTrainingDemo\\ArraysTrainingDemo.csproj|c:\\tirthankar\\arraystrainingdemo\\arraystrainingdemo\\shortinitializationexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A20C30C-65D2-43DF-A4F2-0D05E098F8E7}|ArraysTrainingDemo\\ArraysTrainingDemo.csproj|solutionrelative:arraystrainingdemo\\shortinitializationexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A20C30C-65D2-43DF-A4F2-0D05E098F8E7}|ArraysTrainingDemo\\ArraysTrainingDemo.csproj|c:\\tirthankar\\arraystrainingdemo\\arraystrainingdemo\\stringarrayexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A20C30C-65D2-43DF-A4F2-0D05E098F8E7}|ArraysTrainingDemo\\ArraysTrainingDemo.csproj|solutionrelative:arraystrainingdemo\\stringarrayexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A20C30C-65D2-43DF-A4F2-0D05E098F8E7}|ArraysTrainingDemo\\ArraysTrainingDemo.csproj|c:\\tirthankar\\arraystrainingdemo\\arraystrainingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A20C30C-65D2-43DF-A4F2-0D05E098F8E7}|ArraysTrainingDemo\\ArraysTrainingDemo.csproj|solutionrelative:arraystrainingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArrayExceptionsExample.cs",
+              "DocumentMoniker": "C:\\Tirthankar\\ArraysTrainingDemo\\ArraysTrainingDemo\\ArrayExceptionsExample.cs",
+              "RelativeDocumentMoniker": "ArraysTrainingDemo\\ArrayExceptionsExample.cs",
+              "ToolTip": "C:\\Tirthankar\\ArraysTrainingDemo\\ArraysTrainingDemo\\ArrayExceptionsExample.cs",
+              "RelativeToolTip": "ArraysTrainingDemo\\ArrayExceptionsExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T07:18:20.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DifferentTypesOfArraysExample.cs",
+              "DocumentMoniker": "C:\\Tirthankar\\ArraysTrainingDemo\\ArraysTrainingDemo\\DifferentTypesOfArraysExample.cs",
+              "RelativeDocumentMoniker": "ArraysTrainingDemo\\DifferentTypesOfArraysExample.cs",
+              "ToolTip": "C:\\Tirthankar\\ArraysTrainingDemo\\ArraysTrainingDemo\\DifferentTypesOfArraysExample.cs",
+              "RelativeToolTip": "ArraysTrainingDemo\\DifferentTypesOfArraysExample.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T07:17:02.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShortInitializationExample.cs",
+              "DocumentMoniker": "C:\\Tirthankar\\ArraysTrainingDemo\\ArraysTrainingDemo\\ShortInitializationExample.cs",
+              "RelativeDocumentMoniker": "ArraysTrainingDemo\\ShortInitializationExample.cs",
+              "ToolTip": "C:\\Tirthankar\\ArraysTrainingDemo\\ArraysTrainingDemo\\ShortInitializationExample.cs",
+              "RelativeToolTip": "ArraysTrainingDemo\\ShortInitializationExample.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T07:15:50.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StringArrayExample.cs",
+              "DocumentMoniker": "C:\\Tirthankar\\ArraysTrainingDemo\\ArraysTrainingDemo\\StringArrayExample.cs",
+              "RelativeDocumentMoniker": "ArraysTrainingDemo\\StringArrayExample.cs",
+              "ToolTip": "C:\\Tirthankar\\ArraysTrainingDemo\\ArraysTrainingDemo\\StringArrayExample.cs",
+              "RelativeToolTip": "ArraysTrainingDemo\\StringArrayExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T07:13:34.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Tirthankar\\ArraysTrainingDemo\\ArraysTrainingDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ArraysTrainingDemo\\Program.cs",
+              "ToolTip": "C:\\Tirthankar\\ArraysTrainingDemo\\ArraysTrainingDemo\\Program.cs",
+              "RelativeToolTip": "ArraysTrainingDemo\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T07:09:36.812Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
