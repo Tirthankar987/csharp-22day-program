@@ -1,0 +1,16 @@
+﻿@model IEnumerable<EHRMvcDemo.Models.Doctor>
+
+<h2>Doctors</h2>
+
+<table class="table">
+    @foreach (var d in Model)
+    {
+        <tr>
+            <td>@d.FullName</td>
+            <td>@d.Specialty</td>
+            <td>
+                <a asp-action="Details" asp-route-id="@d.DoctorId">Details</a>
+            </td>
+        </tr>
+    }
+</table>

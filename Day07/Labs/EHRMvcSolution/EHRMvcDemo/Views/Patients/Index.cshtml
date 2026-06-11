@@ -1,0 +1,33 @@
+﻿@model IEnumerable<EHRMvcDemo.Models.Patient>
+
+@{
+    ViewData["Title"] = "Patients";
+}
+
+<h2>Patient Directory</h2>
+
+<p class="text-muted">
+    HIPAA Notice: Limited patient information displayed.
+</p>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Full Name</th>
+            <th>Date of Birth</th>
+            <th>Gender</th>
+            <th>Email</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var patient in Model)
+        {
+            <tr>
+                <td>@patient.FullName</td>
+                <td>@patient.DateOfBirth.ToShortDateString()</td>
+                <td>@patient.Gender</td>
+                <td>@patient.Email</td>
+            </tr>
+        }
+    </tbody>
+</table>

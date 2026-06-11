@@ -1,0 +1,44 @@
+﻿/* Page styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f8;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Title styling */
+h1 {
+    color: #0a4d8c;
+}
+
+.subtitle {
+    margin-bottom: 20px;
+}
+
+/* Container uses CSS GRID */
+.bed-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* 5 beds per row */
+    gap: 15px;
+    max-width: 600px;
+    margin: auto;
+}
+
+/* Base bed style */
+.bed {
+    padding: 20px;
+    border-radius: 8px;
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+/* Available bed */
+.available {
+    background-color: #28a745; /* Green */
+}
+
+/* Occupied bed */
+.occupied {
+    background-color: #dc3545; /* Red */
+}

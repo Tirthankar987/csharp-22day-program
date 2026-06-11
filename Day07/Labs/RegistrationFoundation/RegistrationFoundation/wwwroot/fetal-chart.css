@@ -1,0 +1,56 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f8;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: #0a4d8c;
+}
+
+.subtitle {
+    margin-bottom: 20px;
+}
+
+.dashboard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Chart border */
+canvas {
+    background-color: black;
+    border-radius: 8px;
+}
+
+/* Status panel */
+.status-panel {
+    margin-top: 15px;
+    font-size: 18px;
+}
+
+/* Alert styles */
+.warning {
+    color: #ffc107;
+}
+
+.critical {
+    color: #dc3545;
+    animation: blink 1s infinite;
+}
+
+@keyframes blink {
+    0% {
+        opacity: 1;
+    }
+
+    50% {
+        opacity: 0.3;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}

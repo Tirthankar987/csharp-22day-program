@@ -1,0 +1,20 @@
+﻿@model EHRMvcDemo.Models.Appointment
+
+<h2>Create Appointment</h2>
+
+<form asp-action="Create" method="post">
+    <label>Patient</label>
+    <select asp-for="PatientId" asp-items="ViewBag.Patients"></select>
+
+    <label>Doctor</label>
+    <select asp-for="DoctorId" asp-items="ViewBag.Doctors"></select>
+
+    <label>Date</label>
+    <input asp-for="AppointmentDate" type="datetime-local" />
+
+    <label>Reason</label>
+    <input asp-for="ReasonForVisit" />
+
+    <button type="submit">Save</button>
+</form>
+

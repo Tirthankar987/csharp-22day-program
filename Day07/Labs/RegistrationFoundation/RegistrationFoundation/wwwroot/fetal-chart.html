@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Mother & Fetus Heart Rate – Live Monitor</title>
+    <link rel="stylesheet" href="fetal-chart.css">
+</head>
+<body>
+
+    <h1>Mother & Fetus Heart Rate Monitor</h1>
+    <p class="subtitle">
+        Live scrolling chart with threshold alerts
+    </p>
+
+    <div class="dashboard">
+
+        <!-- Chart -->
+        <canvas id="heartChart" width="800" height="300"></canvas>
+
+        <!-- Status Panel -->
+        <div class="status-panel">
+            <div id="motherStatus">Mother: Stable</div>
+            <div id="fetusStatus">Fetus: Stable</div>
+        </div>
+
+    </div>
+
+    <script src="fetal-chart.js"></script>
+</body>
+</html>
+

@@ -1,0 +1,17 @@
+# Build folders
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Node modules (if any)
+node_modules/
+
+# Ignore frontend libraries
+wwwroot/lib/

@@ -1,0 +1,14 @@
+wwwroot\app.js
+wwwroot\bed-dashboard.css
+wwwroot\bed-dashboard.html
+wwwroot\bed-dashboard.js
+wwwroot\bed-vitals.css
+wwwroot\bed-vitals.html
+wwwroot\bed-vitals.js
+wwwroot\fetal-chart.css
+wwwroot\fetal-chart.html
+wwwroot\fetal-chart.js
+wwwroot\Index.html
+wwwroot\js-essentials.html
+wwwroot\js-essentials.js
+wwwroot\styles.css

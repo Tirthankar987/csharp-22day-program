@@ -1,0 +1,79 @@
+﻿/* GENERAL PAGE STYLING */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f8;
+    padding: 20px;
+}
+
+/* MAIN PAGE TITLE */
+.page-title {
+    text-align: center;
+    color: #0a4d8c;
+    margin-bottom: 30px;
+}
+
+/* COMMON SECTION STYLE */
+section {
+    background-color: white;
+    padding: 15px;
+    margin-bottom: 30px;
+    border-radius: 8px;
+}
+
+/* ------------------------------------------------ */
+/* 1. BASIC LAYOUT – BOX MODEL */
+/* ------------------------------------------------ */
+.card {
+    width: 250px;
+    padding: 15px;
+    border: 2px solid #0a4d8c;
+    background-color: #e8f4ff;
+}
+
+    /* Shows margin, padding, border clearly */
+    .card p {
+        margin: 5px 0;
+    }
+
+/* ------------------------------------------------ */
+/* 2. FLEXBOX – ONE DIRECTION LAYOUT */
+/* ------------------------------------------------ */
+.flex-container {
+    display: flex; /* Enables flexbox */
+    gap: 15px; /* Space between cards */
+    justify-content: space-between;
+}
+
+.doctor-card {
+    flex: 1; /* Equal width cards */
+    background-color: #d1e7dd;
+    padding: 20px;
+    text-align: center;
+    border-radius: 6px;
+}
+
+/* ------------------------------------------------ */
+/* 3. GRID – TWO DIMENSION LAYOUT */
+/* ------------------------------------------------ */
+.grid-container {
+    display: grid; /* Enables grid */
+    grid-template-columns: repeat(3, 1fr); /* 3 equal columns */
+    gap: 10px;
+}
+
+.grid-item {
+    background-color: #fff3cd;
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #ffc107;
+}
+
+/* ------------------------------------------------ */
+/* 4. TYPOGRAPHY – READABILITY */
+/* ------------------------------------------------ */
+.typography .note {
+    font-size: 16px; /* Comfortable reading size */
+    line-height: 1.6; /* Spacing between lines */
+    letter-spacing: 0.5px; /* Improves clarity */
+    color: #333;
+}

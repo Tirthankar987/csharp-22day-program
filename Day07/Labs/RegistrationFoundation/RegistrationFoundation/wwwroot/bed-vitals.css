@@ -1,0 +1,110 @@
+﻿/* ===============================
+   Page Styling
+   =============================== */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f8;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: #0a4d8c;
+}
+
+.subtitle {
+    margin-bottom: 20px;
+}
+
+/* ===============================
+   Bed Grid Layout (CSS Grid)
+   =============================== */
+.bed-container {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 15px;
+    max-width: 700px;
+    margin: auto;
+}
+
+/* ===============================
+   Base Bed Style
+   =============================== */
+.bed {
+    position: relative;
+    padding: 20px;
+    border-radius: 8px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+/* ===============================
+   Bed States
+   =============================== */
+.stable {
+    background-color: #28a745; /* Green */
+}
+
+.observation {
+    background-color: #ffc107; /* Yellow */
+    color: black;
+}
+
+/* CRITICAL BED (BLINKING) */
+.critical {
+    background-color: #dc3545;
+    animation: blinkCritical 1s infinite;
+}
+
+/* ===============================
+   BLINK ANIMATION
+   =============================== */
+@keyframes blinkCritical {
+    0% {
+        opacity: 1;
+    }
+
+    50% {
+        opacity: 0.3;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+/* ===============================
+   Tooltip Styling
+   =============================== */
+.tooltip {
+    visibility: hidden;
+    position: absolute;
+    bottom: 110%;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    border-radius: 6px;
+    width: 220px;
+    font-size: 13px;
+    text-align: left;
+    z-index: 10;
+}
+
+    .tooltip::after {
+        content: "";
+        position: absolute;
+        top: 100%;
+        left: 50%;
+        margin-left: -5px;
+        border-width: 5px;
+        border-style: solid;
+        border-color: #333 transparent transparent transparent;
+    }
+
+/* Show tooltip on hover */
+.bed:hover .tooltip {
+    visibility: visible;
+}
