@@ -1,0 +1,25 @@
+﻿@model EHRMvcAuditLedgerDemo.Models.PatientTransaction
+
+<h2>New Transaction</h2>
+
+<div asp-validation-summary="All"></div>
+
+<form asp-action="Create" method="post">
+    <input asp-for="PatientName" placeholder="Patient Name" />
+    <span asp-validation-for="PatientName"></span>
+
+    <input asp-for="TransactionType" placeholder="Billing or Pharmacy" />
+    <span asp-validation-for="TransactionType"></span>
+
+    <input asp-for="Amount" />
+    <span asp-validation-for="Amount"></span>
+
+    <input asp-for="Description" />
+    <span asp-validation-for="Description"></span>
+
+    <input asp-for="TransactionDate" type="date" />
+    <span asp-validation-for="TransactionDate"></span>
+
+    <button type="submit">Submit</button>
+</form>
+
