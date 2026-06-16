@@ -1,0 +1,6 @@
+@CareBridge.Api_HostAddress = http://localhost:7246
+
+GET {{CareBridge.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
